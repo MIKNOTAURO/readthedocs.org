@@ -1,0 +1,20 @@
+[
+    {
+        "pk": 97777,
+        "model": "auth.user",
+        "fields": {
+            "username": "api_user",
+            "first_name": "Angel",
+            "last_name": "API",
+            "is_active": true,
+            "is_superuser": true,
+            "is_staff": true,
+            "last_login": "2018-12-10T01:51:05+00:00",
+            "groups": [],
+            "user_permissions": [],
+            "password": "pbkdf2_sha256$30000$Vs87OlKZEzCb$nUw1o5pGQw7ff/QhnleSpUOupBaT1DogZrVaoZyQRyc=",
+            "email": "a.galicia@miksaing.com",
+            "date_joined": "2018-08-14T01:50:58+00:00"
+        }
+    }
+]
